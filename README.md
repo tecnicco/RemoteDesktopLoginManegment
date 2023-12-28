@@ -25,5 +25,8 @@ To get help, type the help word into the program
 
 The compiled program is matched with the proposed Telegram bot, and you can use the set bot to control inputs without creating a new bot in Telegram.
 When starting the program, a settings.json file is created next to the program, which you can edit as you like (following the rules of the json file).
-Finally, just start the @RDManagerBot bot in Telegram or introduce your bot to the program and set the Telegram ID code in the program.
+Finally, just start the 
+@RDManagerBot 
+https://t.me/RDManagerBot
+bot in Telegram or introduce your bot to the program and set the Telegram ID code in the program.
 From now on, any request to enter the server will be sent to your bot in Telegram.
