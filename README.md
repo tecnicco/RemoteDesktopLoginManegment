@@ -18,6 +18,9 @@ You can see the login requests in your Telegram bot or our suggested bot.
 
 It is possible that your Windows Defender server will identify this file as a virus because this program will request the registration of startup in the registry if you approve it.
 
+این امکان وجود دارد که سرور ویندوز دیفندر شما این فایل را ویروسی تشخیص دهد زیرا این برنامه در صورت تایید شما درخواست ثبت راه اندازی در رجیستری را می دهد.
+
+
 To get help, type the help word into the program
 
 The compiled program is matched with the proposed Telegram bot, and you can use the set bot to control inputs without creating a new bot in Telegram.
