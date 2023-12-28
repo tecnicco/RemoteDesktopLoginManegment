@@ -4,7 +4,7 @@
 As you know, as soon as an IP server goes online and Remote Desktop (Windows) is activated, thousands of robots to attack the server, start sending passwords to
 connect to the server, which, in addition to the possible risks of password guessing,these efforts The interruption of the attack puts heavy pressure on the server and CPU and RAM resources
 After several years of working on remote servers and seeing endless hacker attacks, I created a program to automatically block these requests by the firewall.
-In general, according to the discretion of the server administrator, he has the ability to apply the necessary settings to manage the requests to enter the server
+In general, according to the discretion of the server administrator,this has the ability to apply the necessary settings to manage the requests to enter the server
 
 
 همانگونه که اطلاع دارید به محض آنلاین شدن یک آی پی سرور و فعال شدن ریموت دسکتاپ (ویندوز) هزاران هزار ربات جهت حمله به سرور ، شروع به ارسال رمز هایی برای اتصال به سرور میکنند که علاوه بر خطرات احتمالی حدس رمز عبور ، این تلاشهای بی وقفه حمله ، فشار سنگینی به سرور و منابع سی پی یو و رم وارد میکند
